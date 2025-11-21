@@ -1,0 +1,92 @@
+MIT License with Ethical Use Clauses
+
+Copyright (c) 2025 Bartosz Gaca and AI-OSINT-Framework Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+ETHICAL USE REQUIREMENTS:
+
+1. LEGAL COMPLIANCE
+   Users must comply with all applicable laws and regulations, including but
+   not limited to:
+   - General Data Protection Regulation (GDPR)
+   - California Consumer Privacy Act (CCPA)
+   - Computer Fraud and Abuse Act (CFAA)
+   - All local, national, and international privacy laws
+
+2. PROHIBITED USES
+   This software shall NOT be used for:
+   - Harassment, stalking, or intimidation of individuals
+   - Unauthorized access to computer systems or networks
+   - Collection of personal data without proper legal basis
+   - Violation of terms of service of any third-party platform
+   - Any activity that violates privacy rights
+   - Malicious purposes or causing harm to others
+   - Circumventing security measures
+   - Any illegal activities whatsoever
+
+3. AUTHORIZED USES
+   This software is intended for legitimate purposes only:
+   - Security research and defensive security
+   - Authorized penetration testing
+   - Due diligence and compliance investigations
+   - Investigative journalism (adhering to ethical standards)
+   - Academic research with proper ethics approval
+   - Threat intelligence gathering
+   - Open source intelligence gathering from public sources only
+
+4. DATA PROTECTION
+   Users must:
+   - Only collect data from publicly available sources
+   - Respect robots.txt and similar access control mechanisms
+   - Implement appropriate data protection measures
+   - Honor data subject rights (access, deletion, etc.)
+   - Maintain transparency in data collection practices
+
+5. ATTRIBUTION
+   When using this software in research or publications, appropriate
+   attribution must be provided.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+7. TERMINATION
+   This license automatically terminates if you violate any of the ethical use
+   requirements stated above. Upon termination, you must immediately cease all
+   use of the Software and destroy all copies.
+
+8. DISCLAIMER OF LIABILITY
+   The authors and contributors of this software are not responsible for any
+   misuse, illegal use, or damages resulting from the use of this software.
+   Users are solely responsible for ensuring their use complies with all
+   applicable laws and ethical standards.
+
+9. REPORTING VIOLATIONS
+   If you become aware of any violation of these terms, please report it to:
+   security@ai-osint-framework.org
+
+10. UPDATES TO TERMS
+    These ethical use clauses may be updated from time to time. Continued use
+    of the Software constitutes acceptance of the updated terms.
+
+---
+
+By using this software, you acknowledge that you have read, understood, and
+agree to comply with both the MIT License terms and the Ethical Use Requirements
+stated above.
+
+For questions about this license, contact: legal@ai-osint-framework.org
